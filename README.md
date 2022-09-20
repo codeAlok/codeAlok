@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **alok60541@gmail.com**
 
-- ⚡ Fun fact **I love to **
+- ⚡ Fun fact **I love to listen instrumental beats**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
