@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **react js**
 
-- 👯 I’m looking to collaborate on **basic project**
+- 👯 I’m looking to collaborate on **React project**
 
 - 🤝 I’m looking for help with **Guidance**
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **alok60541@gmail.com**
 
-- ⚡ Fun fact **I love to listen music, while feel alone**
+- ⚡ Fun fact **I love to **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
