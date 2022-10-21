@@ -8,13 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codealok" alt="codealok" /></a> </p>
 
-- 🔭 I’m currently working on **30 days javascript challenge**
-
-- 🌱 I’m currently learning **react js**
+- 🌱 I’m currently learning **React js**
 
 - 👯 I’m looking to collaborate on **React project**
-
-- 🤝 I’m looking for help with **Guidance**
 
 - 💬 Ask me about **Html, CSS and JAVASCRIPT**
 
@@ -24,12 +20,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/mwlite/in/alok-kumar-650b37208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alok kumar" height="30" width="40" /></a>
-  <a href="https://instagram.com/alokprash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alokprash" height="30" width="40" /></a>
-
-  <a href="https://www.hackerrank.com/code_alok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="code_alok" height="30" width="40" /></a>
-  
-  <a href="https://www.leetcode.com/code_alok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="code_alok" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/mwlite/in/alok-kumar-650b37208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alok kumar" height="30" width="40" /></a>
+<a href="https://instagram.com/alokprash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alokprash" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/code_alok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="code_alok" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/code_alok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="code_alok" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
