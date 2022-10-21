@@ -40,6 +40,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codealok&show_icons=true&locale=en" alt="codealok" /></p>
 
-<a href="https://github.com/codeAlok/github-readme-activity-graph"><img alt="Alok kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=codeAlok&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codealok&" alt="codealok" /></p>
